@@ -29,7 +29,7 @@ async function main() {
         },
         {
             name: "office",
-            message: "What is the manager's OfficeNumber?"
+            message: "What is the manager's Office Number?"
         },
         {
             name: "teamMembers",
