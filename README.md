@@ -22,6 +22,8 @@
      To test the project, simply run `npm test`
 ## Credits:
     Fil & Daniel
+## Demo:
+    https://github.com/nfereidooni/nf_team_profile_generator/blob/main/Demo.mp4
 ## License:
     MIT LICENSE
 
@@ -44,7 +46,7 @@
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-    
+
 ## Questions:
 For questions about this project, please visit my GitHub page:
 - [GitHub Profile](https://github.com/nfereidooni)
