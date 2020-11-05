@@ -10,8 +10,6 @@
 - [License](#license)
 - [Questions](#questions)
 
-![License](https://img.shields.io/badge/license--blue.svg)
-
 ## Description: 
      The goal of this projet was to develop a command line application that collects information from the user about the team manager and team members. The user can input any number of team members and they can be a mix of engineers and interns.
 ## Installation:
