@@ -4,10 +4,10 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribution](#contribution)
 - [Test](#test)
 - [Credits](#credits)
 - [License](#license)
+- [Demo](#demo)
 - [Questions](#questions)
 
 ![License](https://img.shields.io/badge/license--blue.svg)
